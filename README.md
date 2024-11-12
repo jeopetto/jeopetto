@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!+I'm+Jo%C3%A3o+Pedro)](https://git.io/typing-svg)
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif)" alt="Pixel Art" align="right" width="200">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=FF8C61&multiline=true&width=435&height=65&lines=Hello+world!+I'm+Jo%C3%A3o+Pedro.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) 
+<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb]([https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif](https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939))" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
