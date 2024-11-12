@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=FF8C61&multiline=true&width=435&height=65&lines=Hello+world!+I'm+Jo%C3%A3o+Pedro.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) 
-<img src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939" alt="Pixel Art" align="right" width="200">
+<!-- <img src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939" alt="Pixel Art" align="right" width="200"> -->
 
 ### Technologies and tools:
 
