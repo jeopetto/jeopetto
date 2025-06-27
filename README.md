@@ -5,8 +5,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jeptto_LinkedIn" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  <!-- <img align="center" alt="jeptto_Notion" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-plain.svg" />
-  <img align="center" alt="jeptto_Trello" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" /> -->
+  <img align="center" alt="jeptto_Notion" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-plain.svg" />
+  <!-- <img align="center" alt="jeptto_Trello" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" /> -->
   <img align="center" alt="jeptto-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="jeptto-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="jeptto-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -22,9 +22,9 @@
   <img align="center" alt="jeptto_OpenCV" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-plain-wordmark.svg" />
   <img align="center" alt="jeptto_Prolog" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-plain.svg" />  -->   
   <img align="center" alt="jeptto_Canva" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <!-- <img align="center" alt="jeptto_Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-plain.svg" />
+ <img align="center" alt="jeptto_Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-plain.svg" />
   <img align="center" alt="jeptto_Markdown" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> 
-  <img align="center" alt="jeptto_LaTex" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> -->
+   <!-- <img align="center" alt="jeptto_LaTex" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> -->
           
 </div><br>
 
